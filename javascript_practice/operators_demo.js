@@ -10,6 +10,10 @@ console.log(1 === '1') // False - Data type does not match here
 console.log(0 == false) // True
 console.log(0 === false) // False - Data type does not going to match
 
+
+
+console.log('Not Equal', 1 !== 1 ) // False - Here both the value and Data type are same
+console.log('Not Equal--2', 1 !== '1') // True - Data type does not match here
 // #########################################################################################################################
 // Key Differences:
 

@@ -18,6 +18,10 @@ const var_ex = "Hello World"
 // 6.Must not be re-declared   |   Not redeclared but we can reassign the value |   redeclared and reassined the value
 // or reassinged               |                                                |
 
+//          Scope	    Redeclare	    Reassign	    Hoisted	    Binds this
+// var	    No	        Yes	            Yes	            Yes	           Yes
+// let	    Yes	        No	            Yes	            No	            No
+// const	Yes	        No	            No	            No	            No
 
 //##################################################################################################################
 // When to use which one?
@@ -41,8 +45,53 @@ function example2(){
     console.log(x)
     console.log(y) // Getting Error as referenceError
 }
+/*
 
+What is Good?
+let and const have block scope.
 
+let and const can not be redeclared.
+
+let and const must be declared before use.
+
+let and const does not bind to this.
+
+let and const are not hoisted.
+
+What is Not Good?
+var does not have to be declared.
+
+var is hoisted.
+
+var binds to this.
+
+*/
+
+/*-------------------------------------------------------------------------------------------------------
+When to use JavaScript const?
+Always declare a variable with const when you know that the value should not be changed.
+
+Use const when you declare:
+
+A new Array
+A new Object
+A new Function
+A new RegExp*/
+
+// The keyword const is a little misleading.
+
+// It does not define a constant value. It defines a constant reference to a value.
+
+// Because of this you can NOT:
+
+    // Reassign a constant value
+    // Reassign a constant array
+    // Reassign a constant object
+// But you CAN:
+
+    // Change the elements of constant array
+    // Change the properties of constant object
+//----------------------------------------------------------------------------------------------------------
 function example3() {
     const x = 10;
     x = 20; // Error: Assignment to constant variable.
