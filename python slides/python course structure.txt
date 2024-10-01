@@ -1,0 +1,58 @@
+1. Introduction to Python & Python Fundamentals
+Python Interpreter and its Environment
+Python programming building blocks like Variables
+Data Types and their functions
+
+2. Python Basics
+Arrays, Lists and Tuples
+Dictionaries and Sets
+Array and List related functions
+Arithmetic Operators
+Assignment Operators
+Comparison Operators
+Logical Operators
+Conditional/ ternary Operators
+
+3. Python Control Structures
+If Statements
+While construct
+For Statements
+Looping Techniques over data structures
+The range() function
+Break and Continue Statements
+Statements and else clauses in loops
+Pass Statements
+List Comprehensions
+
+4. Functions
+Local variables
+Default Argument Values
+Returning Values
+Keyword & Positional Arguments
+Arbitrary Argument Lists
+Unpacking Argument Lists
+Lambda Forms
+Documentation Strings
+
+5. Modules
+Executing modules as scripts
+The Module Search Path
+Building Modules
+‘Compiled’ Python files
+various Standard Modules/libraries
+The dir() function
+Debugging Python Code
+Logging in Python
+Unit testing in Python
+Static code analysis
+
+6. I/O & Exception handling
+Standard Input and Output I/O
+File I/O
+Python File & Directory functions
+Introduction to subprocess module
+Handling Exceptions
+Raising Exceptions
+Userdefined Exceptions
+Cleanup Actions
+Try/finally clauses

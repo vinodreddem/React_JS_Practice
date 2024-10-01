@@ -1,0 +1,177 @@
+Post questions on website and discuss with them on class or on sat and sun like one on one 
+
+Day 1: 
+	Python Introduction and installation and set up environmental variables 
+
+
+Day 2:
+	Python virtual environment - Commands to create, activate and deactive and its improtance
+	IDLE -- wrting (REPL) - Sys arguments passing 
+	Python IDLE -  Visual Studio and Add python interpreter and Extentions 
+	Basic program and indentation concept
+
+Day 3: 
+	Introduction to GIT Hub- Basic commands - Installation and creation of account 
+	Python Data types - Lists, tuples
+	slicing 
+
+Day 4: 
+	Sets and dictionaries, strings  conversion of the strings 
+	give HW interview questions
+
+Day 5: 
+	Exercise on interview questions and discussion on lists, tuples etc...
+
+Day 6: Arrays, Variables and its scope
+	Arithmetic Operators
+	Assignment Operators
+	Comparison Operators
+	Logical Operators
+	Conditional/ ternary Operators
+
+Day 7: Python Control Structures
+	If Statements
+	While construct
+	For Statements
+	Looping Techniques over data structures
+	The range() function
+	Break and Continue Statements
+	Statements and else clauses in loops
+	Pass Statements
+	List Comprehensions
+
+Day 8: Continue - above topics
+
+Day 9: Functions :
+	Local variables
+	Default Argument Values
+	Returning Values
+	Keyword & Positional Arguments
+	Arbitrary Argument Lists
+	Unpacking Argument Lists
+	Documentation Strings
+
+Day 10: Range, lambda functions , map , reduce , filter functions with lambda
+
+Day 11: Python file and scripts difference - Modules 
+	   Classes , init function , str function 
+
+Day 12: Oops -- inheritence, abstraction , polymorphism , composition etc...
+
+Day 13: Practice on oops 
+
+Day 14: Practice Oops
+
+Day 15: Higher order functions and main interview question -- Decarator , Generator and Iterator
+
+Day 16: Sorting techniques - Bubble sort , quick sort ..etc.
+
+Day 17: interview questions -part 1 
+
+Day 18: interview questions -part 2
+
+Day 19: interview questions -part 3
+
+Day 20: Memory Management, reference count and GIL concepts (Theory)
+
+Day 21: Errors and Exceptions (Theory plus exampls)
+
+
+Day 22: Continue
+	I/O & Exception handling
+	Standard Input and Output I/O
+	File I/O
+	Python File & Directory functions
+	Introduction to subprocess module
+	Hand	ling Exceptions
+	Raising Exceptions
+	Userdefined Exceptions
+	Try/finally clauses
+
+Day 23: Threadding, Thread pool executor,  deamon threads , join and start methods
+
+Day 24: Regular expression - 
+	RE Objects
+	Pattern matching
+	Parsing data
+	Subexpressions
+	Complex substitutions
+	RE tips and tricks
+
+Day 25: Regular expressions - Continue
+
+Day 26: Basic python modules , OS , System , Math , Random, sftp connections, compressed files , requests modules
+
+Day 27: Numpy basics 
+
+Day 28: Numpy basics - Continue
+
+Day 29: Pandas 
+	Slicing the data frame
+	Merging & Joining
+	Concatenation
+	Changing the index
+	Change Column headers
+	Data munging
+
+Day 30: Pands - Continue
+
+Day 31: Pandas 
+
+Day 32: Pandas 
+
+(From here We need to split for freshers and experience)
+Day 33: Django - introduction
+Day 34: Django - MVT Architecture, init, manage.py admin commands explanation, models , views , urls explanation
+Day 35: Django - Model 
+Day 36: Django - Relationship between one on one, one to many and many to one many to many 
+Day 37: Django  View
+Day 38: Django Template
+Day 39: Django - Queryset
+Day 40: Django URL Mapping
+Day 41: Django - Admin Interface
+Day 42: Django Static files
+Day 43: Django Forms and Model Forms Forms Validations
+Day 44: File upload and Image upload
+Day 45: Middleware 
+Day 46: Database connectivity
+Day 47: Database migrations
+Day 48: Request and responses
+Day 49: Django filter
+Day 50: Build Applications -- Clone Application
+Day 51: Clone Application
+Day 52: Interview Questions
+Day 53: Interview Questions 
+
+
+Day 54: Rest API 
+Day 55: Basics Methods 
+Day 56: Status Codes
+Day 57: Postman 
+Day 58: Django rest basics - API views and View sets 
+Day 59: Django rest basics - API views and View sets 
+Day 60: Wind up 
+
+
+Introduction
+Chapter 1: Initial Set Up
+Chapter 2: Hello World App
+Chapter 3: Pages App
+Chapter 4: Messsage Board App
+Chapter 5: Blog App
+Chapter 6: Forms
+Chapter 7: User Accounts
+Chapter 8: Custom User Model
+Chapter 9: User Authentication
+Chapter 10: Bootstrap
+Chapter 11: Password Change and Reset
+Chapter 12: Email
+Chapter 13: Newspaper App
+Chapter 14: Permissions and Authorization
+Chapter 15: Comments
+Chapter 16: Deployment
+Conclusion
+
+
+
+
